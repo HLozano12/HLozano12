@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Low-level programming & Algorithms
 
 - 💬 Ask me about what I am learning or working on.
-- 
+
 - 📫 How to reach me: www.linkedin.com/in/hector-lozano-profile
 
 - 😄 Pronouns: He/Him
