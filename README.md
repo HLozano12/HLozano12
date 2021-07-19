@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on furthering my education in programming with Holberton School in Tulsa, OK
 
-- 🌱 I’m currently learning Low-level programming & Algorithms
+- 🌱 I’m currently specializing in AR/VR
 
 - 💬 Ask me about what I am learning or working on.
 
